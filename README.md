@@ -24,7 +24,7 @@
 <p align="center">
   Hai I do not use github much at all so its likely u found this from my ponytown account<br>
   I like astronomy and i like to proogrammmm, I also like mlp and animal crossing...<br>
-  🟢 - Active | 🌙 - Off-tab/Not Focused | 🔴 - Afk<br>
+  🟢 - Active | 🌙 - Off-tab/Not Focused | ⛔ - Afk<br>
 </p>
 <p align="center">
   <img src="https://starfield.nekoweb.org/images/graphics/spinning%20astra.gif" width=20%>
