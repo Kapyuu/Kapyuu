@@ -25,6 +25,8 @@
   Hai I do not use github much at all so its likely u found this from my ponytown account<br>
   I like astronomy and i like to proogrammmm, I also like mlp and animal crossing...<br>
   🟢 - Active | 🌙 - Off-tab/Not Focused | ⛔ - Afk<br>
+  you can whisper me if u want ill try my best to reply
+  (if u didnt find this through pt then u can ignore this)
 </p>
 <p align="center">
   <img src="https://starfield.nekoweb.org/images/graphics/spinning%20astra.gif" width=20%>
