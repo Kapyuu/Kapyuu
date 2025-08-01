@@ -6,6 +6,10 @@
 <h1 align="center">⟡˙⋆ Kapyu ⋆˙⟡<br>˗ˏˋ ★ ˎˊ˗</h1>
 
 <p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pet47lv3bp3y5xmti3hks4mbsy&cover_image=true&theme=novatorem&show_offline=true&background_color=c1c1c1&interchange=false&bar_color=6748b7&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
+</p>
+
+<p align="center">
   <img src="https://blob.gifcities.org/gifcities/SFOTLGI3BNY7KCSDBX3LSAAR3UBUZN43.gif" width=33%><img src="https://blob.gifcities.org/gifcities/SFOTLGI3BNY7KCSDBX3LSAAR3UBUZN43.gif" width=33%><img src="https://blob.gifcities.org/gifcities/SFOTLGI3BNY7KCSDBX3LSAAR3UBUZN43.gif" width=33%>
 </p>
 
