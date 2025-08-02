@@ -15,7 +15,7 @@
 
 <h3 align="center">⟡- Info -⟡</h3>
 <p align="center">
-  Trixie/Twix ⊹ She/her<br>
+  Trixie/Twix ⊹ She/her/they<br>
   17yo ⊹ Pisces<br>
 </p>
 <p align="center">
