@@ -40,8 +40,8 @@
 </p>
 <h3 align="center">⟡- Links -⟡</h3>
 <p align="center">
-  <a href="https://starfield.nekoweb.org/" target="_blank">Nekoweb</a> ⊹ <a href="https://spacehey.com/kapyu">SpaceHey</a> ⊹ <a href="https://toyhou.se/Kapyu">Toyhouse</a><br>
-  <a href="https://www.roblox.com/users/60248339/profile">Twitter</a> ⊹ <a href="https://www.roblox.com/users/60248339/profile">Roblox</a> ⊹ <a href="https://www.youtube.com/@Kapyyuu">Youtube</a>
+  <a href="https://starfield.nekoweb.org/" target="_blank">Nekoweb</a> ⊹ <a href="https://spacehey.com/kapyu" target="_blank">SpaceHey</a> ⊹ <a href="https://toyhou.se/Kapyu" target="_blank">Toyhouse</a><br>
+  <a href="https://www.roblox.com/users/60248339/profile" target="_blank">Twitter</a> ⊹ <a href="https://www.roblox.com/users/60248339/profile" target="_blank">Roblox</a> ⊹ <a href="https://www.youtube.com/@Kapyyuu" target="_blank">Youtube</a>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/af069742-74b3-414e-bce8-e36b535ce56d" width=20%>
