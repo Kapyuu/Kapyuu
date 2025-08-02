@@ -49,7 +49,7 @@
   <a href="https://www.roblox.com/users/60248339/profile" target="_blank">Twitter</a> ⊹ <a href="https://www.roblox.com/users/60248339/profile" target="_blank">Roblox</a> ⊹ <a href="https://www.youtube.com/@Kapyyuu" target="_blank">Youtube</a>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/af069742-74b3-414e-bce8-e36b535ce56d" width=20%>
+  <img src="https://github.com/user-attachments/assets/8e10ab6a-7a09-4d10-9d51-3c9cefffaa5b" width=15%>
 </p>
 <p align="center">
   <img src="https://blob.gifcities.org/gifcities/YVTEOOGLJCYJEFLBXKPGMKJL2LLGCFKO.gif">
