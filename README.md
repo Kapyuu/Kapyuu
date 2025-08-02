@@ -6,7 +6,9 @@
 <h1 align="center">⟡˙⋆ Kapyu ⋆˙⟡<br>˗ˏˋ ★ ˎˊ˗</h1>
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pet47lv3bp3y5xmti3hks4mbsy&cover_image=true&theme=novatorem&show_offline=true&background_color=c1c1c1&interchange=false&bar_color=6748b7&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pet47lv3bp3y5xmti3hks4mbsy&cover_image=true&theme=novatorem&show_offline=true&background_color=c1c1c1&interchange=false&bar_color=6748b7&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"><br>
+  <img src="https://img.shields.io/badge/dynamic/json?url=http%3A%2F%2Fws.audioscrobbler.com%2F2.0%2F%3Fmethod%3Duser.getinfo%26user%3DAstraP0ny%26api_key%3D61f93299819eb823c250bab983a13a70%26format%3Djson&query=%24%5B'user'%5D%5B'playcount'%5D&label=Total%20Scrobbles&color=FF0000
+">
 </p>
 
 <p align="center">
