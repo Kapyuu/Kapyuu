@@ -33,7 +33,6 @@
   Hai I do not use github much at all so its likely u found this from my ponytown account<br>
   I like astronomy and i like to proogrammmm, I also like mlp and animal crossing...<br>
   🟢 - Active | 🌙 - Off-tab/Not Focused | ⛔ - Afk<br>
-  c+h is OK!<br>
   you can whisper me if u want ill try my best to reply (i <s>kinda</s> REALLY suck at convos tho...)<br>
   (if u didnt find this through pt then u can ignore this)
 </p>
