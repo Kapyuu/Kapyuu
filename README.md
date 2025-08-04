@@ -34,6 +34,7 @@
   I like astronomy and i like to proogrammmm, I also like mlp and animal crossing...<br>
   🟢 - Active | 🌙 - Off-tab/Not Focused | ⛔ - Afk<br>
   you can whisper me if u want ill try my best to reply (i <s>kinda</s> REALLY suck at convos tho...)<br>
+  SO SORRY IF I DONT REPLY TO UR WHISPER I STILL LIKELY READ IT<br>
   (if u didnt find this through pt then u can ignore this)
 </p>
 <p align="center">
