@@ -53,7 +53,7 @@
 <h4 align="center">⟡- Ocs -⟡</h4>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e10ab6a-7a09-4d10-9d51-3c9cefffaa5b" width=15%>
+  <img src="https://github.com/user-attachments/assets/4d1d12b9-17c8-4d55-bc54-c464891abb7f" width=15%>
   <img src="https://github.com/user-attachments/assets/bcf7939a-a0ba-4a8c-b6b0-bae72a97d35d" width=15%>
   <img src="https://github.com/user-attachments/assets/b82110e2-e383-4766-a89f-91764ca301ec" width=15%>
 </p>
