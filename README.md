@@ -72,6 +72,12 @@
   <img src="https://github.com/user-attachments/assets/af7c914a-a2c0-4fb2-808f-b74abd8ec97f" width=15%>
 </p>
 
+<h4 align="center">⟡- Die of Death -⟡</h4>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48f22fa3-715f-43fd-af31-60cff67e503c" width=15%>
+</p>
+
 <h4 align="center">⟡- Phighting -⟡</h4>
 
 <p align="center">
